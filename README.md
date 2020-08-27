@@ -9,9 +9,5 @@ Por ahora, de lenguajes de programación conozco sólo Python. He hecho pequeño
 Sorry lo perno de escribir aquí, pero aprendo :)
 
 Instagram: [@javierzavello](http://instagram.com/javierzavello)
-<<<<<<< HEAD
-Twitter: [@javierzavello](https://twitter.com/javierzavello)
-=======
 
 Twitter: [@javierzavello](https://twitter.com/javierzavello)
->>>>>>> 1fc3d4d6b918a19d311ac8a559b17462acff6b22

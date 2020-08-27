@@ -1,5 +1,5 @@
 # hola-mundo
-![imagenes/perfil_stanford_2.jpg](imagenes/perfil_stanford_2.jpg =250x)
+<img src="imagenes/perfil_stanford_2.jpg" width="300" />
 
 # ¿Quién soy?
 Hola! Mi nombre es Javier Zepeda Avello. Soy estudiante de Ingeniería en la Pontificia Universidad Católica de Chile.

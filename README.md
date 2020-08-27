@@ -1,5 +1,5 @@
 # hola-mundo
-![imagenes/perfil_stanford_2.jpg](imagenes/perfil_stanford_2.jpg)
+![imagenes/perfil_stanford_2.jpg](imagenes/perfil_stanford_2.jpg =250x)
 
 # ¿Quién soy?
 Hola! Mi nombre es Javier Zepeda Avello. Soy estudiante de Ingeniería en la Pontificia Universidad Católica de Chile.
@@ -9,5 +9,4 @@ Por ahora, de lenguajes de programación conozco sólo Python. He hecho pequeño
 Sorry lo perno de escribir aquí, pero aprendo :)
 
 Instagram: [@javierzavello](http://instagram.com/javierzavello)
-
 Twitter: [@javierzavello](https://twitter.com/javierzavello)
